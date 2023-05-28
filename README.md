@@ -52,6 +52,8 @@ and not the fetching part, the browser does download the video, no need to cance
 # Future Features [Work in progress]
 
 - [Internet Connection] When it needs more updated information from the internet the goal is to scrap a certain amount of google links, transform that into text and pass it to chatgpt 3.5 as new information that can be later refer to, asked or anything that the model can do.
+- [Image Creation] Hopefully if all works out one of the next features will be to add Dali API so it can create images out of nothing.
+- [More random behavior] Now the bot replies with voice when you ask to it with voice, in the future a pre call to chatgpt will happen and the bot itself will decide if it wants to send you a audio voice or just text, when you send an audio voice to the bot the same will happen.
 
 
 # Examples
