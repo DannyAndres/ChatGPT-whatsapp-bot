@@ -58,6 +58,12 @@ and not the fetching part, the browser does download the video, no need to cance
 
 # Examples
 
+
+https://github.com/DannyAndres/ChatGPT-whatsapp-bot/assets/19177489/606e80dc-44e0-4d97-a92e-be01a7491a3a
+
+
+https://github.com/DannyAndres/ChatGPT-whatsapp-bot/assets/19177489/941709a9-128a-4402-aa78-ccaef92a73ce
+
 <img width="958" alt="Screenshot 2023-05-28 at 02 52 04" src="https://github.com/DannyAndres/ChatGPT-whatsapp-bot/assets/19177489/c40cda7b-1105-4e72-a82d-9566768e5835">
 <img width="964" alt="Screenshot 2023-05-28 at 02 51 49" src="https://github.com/DannyAndres/ChatGPT-whatsapp-bot/assets/19177489/89afb479-a542-4f78-bc4f-bda40f5903cd">
 <img width="962" alt="Screenshot 2023-05-28 at 02 51 25" src="https://github.com/DannyAndres/ChatGPT-whatsapp-bot/assets/19177489/2fdf40c3-bab0-44e1-b417-e3439cbd3317">
