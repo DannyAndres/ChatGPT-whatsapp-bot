@@ -56,7 +56,11 @@ and not the fetching part, the browser does download the video, no need to cance
 
 # Examples
 
-<img width="1031" alt="Screenshot 2023-05-28 at 02 45 02" src="https://github.com/DannyAndres/ChatGPT-whatsapp-bot/assets/19177489/1231e08d-98b5-4f2d-b607-d4195c4ae953">
-<img width="949" alt="Screenshot 2023-05-28 at 02 45 36" src="https://github.com/DannyAndres/ChatGPT-whatsapp-bot/assets/19177489/a18ffaff-a928-4c6b-996d-9ceb5c80a521">
-<img width="959" alt="Screenshot 2023-05-28 at 02 46 11" src="https://github.com/DannyAndres/ChatGPT-whatsapp-bot/assets/19177489/efdd3203-39d9-4b79-b2e1-79865f216132">
+<img width="958" alt="Screenshot 2023-05-28 at 02 52 04" src="https://github.com/DannyAndres/ChatGPT-whatsapp-bot/assets/19177489/c40cda7b-1105-4e72-a82d-9566768e5835">
+<img width="964" alt="Screenshot 2023-05-28 at 02 51 49" src="https://github.com/DannyAndres/ChatGPT-whatsapp-bot/assets/19177489/89afb479-a542-4f78-bc4f-bda40f5903cd">
+<img width="962" alt="Screenshot 2023-05-28 at 02 51 25" src="https://github.com/DannyAndres/ChatGPT-whatsapp-bot/assets/19177489/2fdf40c3-bab0-44e1-b417-e3439cbd3317">
+<img width="948" alt="Screenshot 2023-05-28 at 02 51 03" src="https://github.com/DannyAndres/ChatGPT-whatsapp-bot/assets/19177489/8630d8b6-26e3-4999-b170-aa039938415e">
+<img width="969" alt="Screenshot 2023-05-28 at 02 50 46" src="https://github.com/DannyAndres/ChatGPT-whatsapp-bot/assets/19177489/c714b1a4-42cc-44f1-9f27-e6f30e678232">
+<img width="964" alt="Screenshot 2023-05-28 at 02 50 09" src="https://github.com/DannyAndres/ChatGPT-whatsapp-bot/assets/19177489/2ae89c86-6327-4914-9d8e-02c9903c621c">
+<img width="966" alt="Screenshot 2023-05-28 at 02 50 29" src="https://github.com/DannyAndres/ChatGPT-whatsapp-bot/assets/19177489/69e6c381-b8e8-4421-a8ab-fed84cb2f826">
 
