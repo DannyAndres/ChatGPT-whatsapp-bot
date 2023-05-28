@@ -1,0 +1,14 @@
+# Ignore all config files and leave the examples
+config/*.json
+
+# Ignore all generated temporal assets
+bot/audio/*.mp3
+bot/images/*.jpeg
+bot/storage/*.json
+bot/videos/*.mp4
+bot/videos/frames/*.png
+
+# Ignore build folder
+build
+.wwebjs_auth
+node_modules
