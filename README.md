@@ -52,3 +52,11 @@ and not the fetching part, the browser does download the video, no need to cance
 # Future Features [Work in progress]
 
 - [Internet Connection] When it needs more updated information from the internet the goal is to scrap a certain amount of google links, transform that into text and pass it to chatgpt 3.5 as new information that can be later refer to, asked or anything that the model can do.
+
+
+# Examples
+
+<img width="1031" alt="Screenshot 2023-05-28 at 02 45 02" src="https://github.com/DannyAndres/ChatGPT-whatsapp-bot/assets/19177489/1231e08d-98b5-4f2d-b607-d4195c4ae953">
+<img width="949" alt="Screenshot 2023-05-28 at 02 45 36" src="https://github.com/DannyAndres/ChatGPT-whatsapp-bot/assets/19177489/a18ffaff-a928-4c6b-996d-9ceb5c80a521">
+<img width="959" alt="Screenshot 2023-05-28 at 02 46 11" src="https://github.com/DannyAndres/ChatGPT-whatsapp-bot/assets/19177489/efdd3203-39d9-4b79-b2e1-79865f216132">
+
