@@ -4,7 +4,14 @@ run by filling the credentials in the corresponding json files inside config fol
 examples are provided in JS files in the same folder
 
 after that create an empty json inside history.json file in bot/storage folder
-this file keeps the history so chatgpt have a memory, you can configure that field inside config.json in config folder. If history.json does not exists create the file
+this file keeps the history so chatgpt have a memory, you can configure that field inside config.json in config folder. If history.json does not exists create the file.
+
+Create the following folders if they don't exist already
+
+bot/audio
+bot/storage
+bot/images
+bot/videos & bot/videos/frames
 
 # Fixes
 
